@@ -5,7 +5,7 @@ import requests
 SOURCE_URL = "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblocksingbox.json"
 
 # 2. 定义你关心的关键字（只有包含这些词的规则会被保留）
-KEYWORDS = ["youtube", "twitter", "instagram", "google", "telegram", "pinterest", "chatgpt", "tumblr",  "quora", "reddit"]
+KEYWORDS = ["youtube", "twitter", "instagram", "google", "telegram", "pinterest", "chatgpt", "openai", "tumblr",  "quora", "reddit"]
 
 def main():
     response = requests.get(SOURCE_URL)
