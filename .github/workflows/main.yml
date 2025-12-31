@@ -24,7 +24,7 @@ jobs:
 
       - name: Install sing-box
         run: |
-          # 1. 下载你截图中的那个 Linux 版本
+          # 1. 下载sing-box
           curl -Lo sing-box.tar.gz https://github.com/SagerNet/sing-box/releases/download/v1.12.14/sing-box-1.12.14-linux-amd64.tar.gz
           # 2. 解压文件
           tar -xzf sing-box.tar.gz
