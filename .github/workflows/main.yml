@@ -1,0 +1,45 @@
+name: Update Lite Ruleset
+on:
+  schedule:
+    - cron: '0 */8 * * *' # 每 8 小时自动运行
+  workflow_dispatch: # 支持手动运行
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run filter script
+        run: python filter.py
+
+      - name: Install sing-box
+        run: |
+          # 1. 下载你截图中的那个 Linux 版本
+          curl -Lo sing-box.tar.gz https://github.com/SagerNet/sing-box/releases/download/v1.12.14/sing-box-1.12.14-linux-amd64.tar.gz
+          # 2. 解压文件
+          tar -xzf sing-box.tar.gz
+          # 3. 将二进制文件移动到系统目录以便直接调用
+          sudo mv sing-box-1.12.14-linux-amd64/sing-box /usr/local/bin/
+
+      - name: Compile SRS
+        run: |
+          # 使用最新版编译器生成二进制规则集
+          sing-box rule-set compile lite-ads.json -o lite-ads.srs
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add lite-ads.json lite-ads.srs
+          git commit -m "使用 sing-box v1.12.14 编译最新精简规则" || exit 0
+          git push
