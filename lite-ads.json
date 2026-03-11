@@ -3,7 +3,6 @@
   "rules": [
     {
       "domain_suffix": [
-        "1476653google.com",
         "15google.com",
         "17536-google.com",
         "1855929google.com",
@@ -14,6 +13,7 @@
         "925651-google.com",
         "991441-google.com",
         "a-google.hl.cn",
+        "aa-google.hl.cn",
         "ads-twitter.com",
         "adtrafficquality.google",
         "kmmgoogle.oss-ap-southeast-1.aliyuncs.com",
@@ -31,6 +31,7 @@
         "gtm.bangersopenair.com",
         "google-square-fr.blogspot.ae",
         "cgoogle.fr",
+        "chatgpt-cn.hl.cn",
         "chatgpt-premium.com",
         "chatgpt.re",
         "chatgpt.yt",
@@ -54,6 +55,7 @@
         "crabtelegramdistracted.com",
         "crashlyticsreports-pa.googleapis.com",
         "d-google.hl.cn",
+        "dd-google.hl.cn",
         "de-google.hl.cn",
         "device-provisioning.googleapis.com",
         "googleplaycards.dlcodes.com",
