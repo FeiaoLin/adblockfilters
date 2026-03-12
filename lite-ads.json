@@ -3,11 +3,13 @@
   "rules": [
     {
       "domain_suffix": [
+        "137192-google.com",
         "15google.com",
         "17536-google.com",
         "1855929google.com",
         "289302-google.com",
         "355-google.com",
+        "52632-google.com",
         "78382google.com",
         "91google.cn",
         "925651-google.com",
@@ -42,8 +44,6 @@
         "chatgptfrance.fr",
         "chatgptmax.ru",
         "chrome-google-ao.hl.cn",
-        "chrome-google-ok.hl.cn",
-        "chrome-google-pc.hl.cn",
         "chromea-google.hl.cn",
         "chromegoogle.hl.cn",
         "chromen-google.hl.cn",
@@ -70,6 +70,7 @@
         "e-google.hl.cn",
         "ebony-telegram.fr",
         "en-chromegoogle.hl.cn",
+        "ex-vs-google.hl.cn",
         "f-google.hl.cn",
         "facebook-google-15oqyxwtkremqyujsm.vercel.app",
         "facebook-google-vptyyny63pwfipshmm.vercel.app",
@@ -91,6 +92,7 @@
         "google-chrom.hl.cn",
         "google-chromez-zh.hl.cn",
         "google-docs.org",
+        "google-llq.hl.cn",
         "google-pagerank.net",
         "google-security.fr",
         "google-server-side-tag-manager-5s5tlofmdq-ew.a.run.app",
@@ -267,7 +269,6 @@
         "p-google.hl.cn",
         "p-telegram.hl.cn",
         "pcapp-google.hl.cn",
-        "pinterest-pro.online",
         "ads.pinterest.com",
         "ads-dev.pinterest.com",
         "analytics.pinterest.com",
@@ -327,6 +328,7 @@
         "telegram-aad.com",
         "telegram-acl.com",
         "telegram-aec.com",
+        "telegram-api.org",
         "telegram-arabe.fr",
         "telegram-ce.com",
         "telegram-contest.live",
@@ -417,9 +419,8 @@
         "wewe.web-chatgptt.com",
         "web-chromegoogle.hl.cn",
         "web-telegram.net",
-        "web-telegram.top",
-        "webtelegram.app",
         "webtelegram.eu.org",
+        "wh-tv-google.hl.cn",
         "whatitoldchatgpt.com",
         "www-google.nl",
         "www-youtube.fr",
@@ -445,7 +446,11 @@
         "yyoutube.com",
         "google.zavalon.info",
         "zh-chromegoogle.hl.cn",
-        "zh-google-chrome.hl.cn"
+        "zh-cn-google.hl.cn",
+        "zh-google-chrome.hl.cn",
+        "zk-fr-google.hl.cn",
+        "zk-jg-google.hl.cn",
+        "zk-yh-google.hl.cn"
       ]
     }
   ]
