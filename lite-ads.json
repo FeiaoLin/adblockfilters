@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "161-google.com",
         "ads-twitter.com",
         "adtrafficquality.google",
         "kmmgoogle.oss-ap-southeast-1.aliyuncs.com",
@@ -99,6 +100,7 @@
         "googles.video",
         "tpc.googlesyndication-cn.com",
         "googlesyndication.com",
+        "googletagmanage.com",
         "googletagmanager-cn.com",
         "googletagmanager.com",
         "googletagservices-cn.com",
@@ -126,8 +128,11 @@
         "nsp-logservice-hiview-p06-dra.obs.ap-southeast-3.myhuaweicloud.com",
         "nsp-logservice-hiview-p07-dra.obs.ap-southeast-3.myhuaweicloud.com",
         "nsp-logservice-hiview-p08-dra.obs.ap-southeast-3.myhuaweicloud.com",
+        "obs.cn-east-2.myhuaweicloud.com",
+        "obs.cn-east-3.myhuaweicloud.com",
+        "obs.cn-north-1.myhuaweicloud.com",
         "obs.cn-north-2.myhuaweicloud.com",
-        "teslaamg.obs.cn-east-3.myhuaweicloud.com",
+        "obs.cn-south-1.myhuaweicloud.com",
         "nsp-logservice-hiview-p01-drru.obs.ru-northwest-2.myhuaweicloud.ru",
         "myscoop-tracking.googlecode.com",
         "api.ocarinhadogoogle.com.br",
@@ -173,10 +178,17 @@
         "googleshopping.sapoapps.vn",
         "strolldownstairstelegram.com",
         "telegram-finance-ai.com",
+        "telegram-x.com",
         "promote.telegram.org",
+        "telegramamn.com",
+        "telegrambasic.com",
         "telegramdisposedjaws.com",
+        "telegramke.com",
+        "telegrammy.com",
+        "telegramrn.org",
         "telegramweb.vercel.app",
         "telemetry.googleapis.com",
+        "ton-telegram.network",
         "trakksocial.googlecode.com",
         "ttwitter.com",
         "92x.tumblr.com",
@@ -211,7 +223,8 @@
         "analytics.youtube.com",
         "fcmatch.youtube.com",
         "youtubee.com",
-        "youtuber-cash.buzz"
+        "youtuber-cash.buzz",
+        "ytelegram.com"
       ]
     }
   ]
