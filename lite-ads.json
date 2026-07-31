@@ -140,7 +140,6 @@
         "openai-chatgpt.chat",
         "bzr.openai.com",
         "bzrcdn.openai.com",
-        "openairharvest.com",
         "google-analytics.bi.owox.com",
         "pay-openai-chatgpt.chat",
         "ads.pinterest.com",
@@ -231,7 +230,8 @@
         "s2.youtube.com",
         "youtubee.com",
         "youtuber-cash.buzz",
-        "youtubesave.org"
+        "youtubesave.org",
+        "ytelegram.com"
       ]
     }
   ]
