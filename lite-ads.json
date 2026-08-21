@@ -3,7 +3,6 @@
   "rules": [
     {
       "domain_suffix": [
-        "2023-openai.com",
         "ads-twitter.com",
         "adtrafficquality.google",
         "kmmgoogle.oss-ap-southeast-1.aliyuncs.com",
@@ -206,8 +205,10 @@
         "pinterest-stape.stmna.com.au",
         "telegram-x.com",
         "promote.telegram.org",
+        "telegramamn.com",
         "telegrambasic.com",
         "data.telegramd.com",
+        "telegramdisposedjaws.com",
         "telegramke.com",
         "telegramllinkler.com",
         "telegrammy.com",
