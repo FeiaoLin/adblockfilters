@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "addurltogoogle.com",
         "admob.googleapis.com",
         "ads-twitter.com",
         "adtrafficquality.google",
@@ -41,6 +42,7 @@
         "content-analyticsdata.googleapis.com",
         "crashlyticsreports-pa.googleapis.com",
         "device-provisioning.googleapis.com",
+        "libreddit.domain.glass",
         "doubleclickbygoogle.com",
         "facebook-google-15oqyxwtkremqyujsm.vercel.app",
         "facebook-google-vptyyny63pwfipshmm.vercel.app",
@@ -60,6 +62,7 @@
         "google-analytics.com",
         "google-analytics.webflow.io",
         "google-apps.cz",
+        "google-meet-call.com",
         "google-pagerank.net",
         "adservice.google.be",
         "adservice.google.ca",
@@ -216,6 +219,7 @@
         "google-analytics.nuxtjs.org",
         "api.ocarinhadogoogle.com.br",
         "ogads-pa.googleapis.com",
+        "openai-backup.one",
         "bzr.openai.com",
         "bzrcdn.openai.com",
         "google-analytics.bi.owox.com",
