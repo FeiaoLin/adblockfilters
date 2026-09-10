@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "accounts-mail-google.com",
         "addurltogoogle.com",
         "admob.googleapis.com",
         "ads-twitter.com",
