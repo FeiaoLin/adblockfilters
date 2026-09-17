@@ -3,7 +3,6 @@
   "rules": [
     {
       "domain_suffix": [
-        "accounts-mail-google.com",
         "addurltogoogle.com",
         "admob.googleapis.com",
         "ads-twitter.com",
@@ -24,7 +23,6 @@
         "instagram.astv.ru",
         "google.asuntosdigitales.com",
         "attributiontrackingga.googlecode.com",
-        "auth-google.fr",
         "gtm.bangersopenair.com",
         "google.bawakeerschools.com",
         "blogergadgets.googlecode.com",
@@ -128,9 +126,7 @@
         "id.google.com.hk",
         "adservice.google.com.mt",
         "adwords.google.com.mx",
-        "ampcid.google.com.mx",
         "adwords.google.com.ph",
-        "ampcid.google.com.ph",
         "adwords.google.com.sg",
         "ampcid.google.com.sg",
         "adwords.google.com.tr",
@@ -157,7 +153,6 @@
         "googleapi.club",
         "googleapps.shop",
         "analytics.googleblog.com",
-        "log.googlebuffer.com",
         "googlecommerce.com",
         "server.googledominado.com.br",
         "googleflights-cn.net",
@@ -241,7 +236,6 @@
         "pixel.quora.com",
         "q.quora.com",
         "retail-analytics.quora.com",
-        "ad.reddit.com",
         "ads.reddit.com",
         "ads-api.reddit.com",
         "alb.reddit.com",
