@@ -3,7 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
-        "account-google-com-pdfdeocumentresd.cfd",
+        "26532google.com",
         "admob.googleapis.com",
         "ads-twitter.com",
         "adtrafficquality.google",
@@ -115,6 +115,7 @@
         "adservice.google.com.au",
         "ampcid.google.com.au",
         "ampcid.google.com.br",
+        "ampcid.google.com.eg",
         "ampcid.google.com.hk",
         "adservice.google.com.mt",
         "ampcid.google.com.mx",
@@ -132,6 +133,7 @@
         "www.google1107.com",
         "www.google1302.com",
         "google1308.com",
+        "google2play.com",
         "googleads.com",
         "googleads.github.io",
         "googleads.googleapis.com",
@@ -711,6 +713,8 @@
         "telemetry.googleapis.com",
         "ton-telegram.network",
         "trakksocial.googlecode.com",
+        "posthog.trychatgpt.ru",
+        "sentry.trychatgpt.ru",
         "ttwitter.com",
         "92x.tumblr.com",
         "fazpowerdenet.tumblr.com",
