@@ -3,6 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
+        "165232google.com",
+        "592361google.com",
         "admob.googleapis.com",
         "ads-twitter.com",
         "adtrafficquality.google",
@@ -130,7 +132,7 @@
         "adservice.google.se",
         "www.google1107.com",
         "www.google1302.com",
-        "www.google1308.com",
+        "google1308.com",
         "googleads.com",
         "googleads.github.io",
         "googleads.googleapis.com",
@@ -729,6 +731,7 @@
         "syndication.twitter.com",
         "urls.api.twitter.com",
         "twitter.sx",
+        "analytics.twitterapi.io",
         "twitterchest.com",
         "twittercounter.com",
         "twitterfollowers.site",
