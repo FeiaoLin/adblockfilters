@@ -3,7 +3,6 @@
   "rules": [
     {
       "domain_suffix": [
-        "26532google.com",
         "admob.googleapis.com",
         "ads-twitter.com",
         "adtrafficquality.google",
