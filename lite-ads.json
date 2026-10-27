@@ -3,7 +3,6 @@
   "rules": [
     {
       "domain_suffix": [
-        "account-googlesignin-bids-upcomingproject-mails.live",
         "admob.googleapis.com",
         "ads-twitter.com",
         "adtrafficquality.google",
@@ -27,6 +26,7 @@
         "blogergadgets.googlecode.com",
         "data.msg.centuryliquorandwines.com",
         "googleyachthafenbarth.ch2.ag",
+        "billing.chatgpt-opania.com",
         "chatgpt-premium.com",
         "chatgpt.org",
         "chatgpt.wf",
@@ -35,7 +35,10 @@
         "clientmetrics-pa.googleapis.com",
         "clienttracing-pa.googleapis.com",
         "clouderrorreporting.googleapis.com",
+        "adx-dre.op.dbankcloud.com.huawei.com.akadns.net",
         "ad-creatives-public.commondatastorage.googleapis.com",
+        "content-analyticsadmin.googleapis.com",
+        "content-analyticsdata.googleapis.com",
         "twitter.countoon.com",
         "crashlyticsreports-pa.googleapis.com",
         "device-provisioning.googleapis.com",
@@ -704,6 +707,7 @@
         "web.telegram.im",
         "telegram.land",
         "ads.telegram.org",
+        "telegram22.com",
         "telegramamn.com",
         "telegrambasic.com",
         "telegramcnweb.com",
